@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Restaurante A3</string>
+
+    <!-- intro -->
+    <string name="quem_e_voce">Quem é você?</string>
+    <string name="cliente">Cliente</string>
+    <string name="restaurante">Restaurante</string>
+    <string name="ou">ou</string>
+
+    <!-- login and cadaster -->
+    <string name="login">Login</string>
+    <string name="entrar">Entrar</string>
+    <string name="cadastro">Cadastro</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="com_conta"><u>Já possui cadastro?</u></string>
+    <string name="sem_conta"><u>Ainda não possui cadastro?</u></string>
+    <string name="dig_email">Digite seu e-mail</string>
+    <string name="dig_senha">Digite a sua senha</string>
+    <string name="dig_nome">Digite seu nome</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_home_cliente">Home_cliente</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <!-- edit pedidos -->
+    <string name="comida">Comida</string>
+    <string name="bebida">Bebida</string>
+    <string name="nome_prato1">Nome do prato 1</string>
+    <string name="nome_prato2">Nome do prato 2</string>
+    <string name="nome_prato3">Nome do prato 3</string>
+    <string name="descricao_prato">Descrição do prato.</string>
+    <string name="add_prato">+</string>
+    <string name="contentDescription_prato1">Imagem prato 1</string>
+    <string name="contentDescription_prato2">Imagem prato 2</string>
+    <string name="contentDescription_prato3">Imagem prato 3</string>
+
+    <string name="nome">nome</string>
+    <string name="editcardapio">Editar cardapio</string>
+    <string name="pedidos">Pedidos</string>
+    <string name="pesquisar_restaurante">Pesquisar restaurante</string>
+</resources>
